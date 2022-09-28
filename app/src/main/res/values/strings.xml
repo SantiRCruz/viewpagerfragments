@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">proof 2</string>
+    <string name="sign_in">Sign in</string>
+    <string name="if_you_don_t_have_account_credentials_you_can_take_it_in_near_hospital_in_your_city_after_vaccination">if you don’t have account credentials, you can take it in near hospital in your city after vaccination</string>
+    <string name="your_login">Your Login</string>
+    <string name="your_password">Your Password</string>
+    <string name="sign_In">Sign In</string>
+    <string name="wsa_care">WSA Care</string>
+    <string name="in_skill_area_in_the_last_14_days">in skill area in the last 14 days</string>
+    <string name="you_haven_t_report_today_s_health_status">You haven’t report today’s health status.</string>
+    <string name="how_are_you_feeling_today">How are you feeling today?</string>
+    <string name="check_in_now">Check in now</string>
+    <string name="why_do_this">Why do this?</string>
+    <string name="clear">CLEAR</string>
+    <string name="name">Name</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="you_have_checked_in_today">You have checked in today.</string>
+    <string name="qr_code">QR Code</string>
+    <string name="use_this_qr_code_in_restaraunts_and_aerports_you_can_t_give_it_to_anyone_else">Use this QR-code in restaraunts and aerports You can’t give it to anyone else</string>
+    <string name="you_need_internet_access">You need to have access to internet</string>
+    <string name="current_week">Current Week</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="checklist">Checklist</string>
+    <string name="have_you_had_any_of_the_following_n_symptoms_in_the_last_24_hours">Have you had any of the following\n symptoms in the last 24 hours ?</string>
+    <string name="add_your_photo_for_check_you_health_with_neural_networks">Add your photo for check you health\n with neural networks</string>
+    <string name="confirm">Confirm</string>
+    <string name="don_t_want_to_answer_for_now">Don’t want to answer for now.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
